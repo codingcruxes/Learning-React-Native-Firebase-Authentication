@@ -1,14 +1,15 @@
-# Expo Router Example
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
 ## 🚀 How to use
-
+Install dependencies
 ```sh
-npx create-expo-app -e with-router
+npm install
+```
+start application
+```sh
+npm start
 ```
 
 ## 📝 Notes
+You can follow a tutorial on this project here: https://dev.to/colinah/learning-firebase-and-react-native-authentication-2822
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
