@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Learning-React-Native-Firebase-Authentication",
+    "slug": "Learning-React-Native-Firebase-Authentication"
+  }
+}
